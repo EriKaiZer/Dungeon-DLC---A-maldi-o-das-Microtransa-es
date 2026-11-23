@@ -1,0 +1,25 @@
+Unity 6000.6.6f1 — teste real em Play Mode
+OK: Gerenciador presente
+OK: Jogador começa com 100 PV
+OK: Cinco inimigos instalados
+OK: 24 quadros ligados a cada inimigo
+OK: Um AudioListener ativo
+OK: Navegação atravessa as salas e corredores
+OK: Crack persegue o jogador
+OK: Ataque inimigo aplica dano ao jogador
+OK: Barra de vida diminui visualmente
+OK: Espada não atravessa obstáculos
+OK: Evento real da espada aplica 25 de dano
+OK: Três golpes derrotam o inimigo
+OK: Corpo morto deixa de bloquear passagem
+OK: Animação de morte chega ao último quadro
+OK: Recuperação de vida funciona
+OK: Cura respeita o limite de 100 PV
+OK: Moeda aumenta o contador
+OK: Objetivo espera os cinco inimigos
+OK: Contador registra cinco derrotas
+OK: Objetivo encerra a fase com vitória
+OK: Reiniciar restaura jogador e progresso
+OK: Reiniciar restaura os cinco inimigos
+OK: Morte do jogador abre o fim da tentativa
+PASSOU: Combate, animações, HUD, itens e reinício verificados.

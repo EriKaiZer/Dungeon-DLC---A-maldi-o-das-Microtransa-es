@@ -1,0 +1,9 @@
+Tutorial inicial integrado à mesma Fortaleza Azul.
+Spawn: 0, .06, -79.
+Espada: 3.3, .92, -66.5. Manequim: -2.8, 0, -58. Escudo: -3.4, .9, -45.15.
+Cobrador da ponte: 45 PV e 8 de dano, só desperta após recolher o escudo.
+Ponte: -42 a -10. Portões abrem por aproximação em 2,2 segundos.
+Uma dica contextual por vez. Equipamentos aparecem ao segurar TAB.
+Adaga na sala de tesouro original.
+Jogador, HUD, baús, chefes e cenas anteriores preservados.
+Backup: Assets/SornyGameplay/Reports/BackupChegada/20261116_135924

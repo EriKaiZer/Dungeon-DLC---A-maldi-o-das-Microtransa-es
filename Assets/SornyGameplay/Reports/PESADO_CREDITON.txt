@@ -1,0 +1,5 @@
+Espada com eixo reto, adaga e maça em primeira pessoa. A maça-chave é a arma de Só-Não e cai ao derrotá-lo; recolher com E e equipar em 6. Baús preservam moedas.
+Clique e solte rapidamente: golpe leve. Segure e solte: pesado; até 1,9x dano, pausa de impacto maior, recuperação mais lenta e barra de carga.
+Crediton: 620 PV, segundo chefe, 64 quadros originais e 10 animações. Cobrança dupla, corrente em linha, giro em área, salto/impacto, fase 2 e atordoamento. Porta e trilha integradas; salvamento compatível.
+PNGs originais de Crediton_BossFinal_Sprites.zip preservados. Recortes e pivôs importados do JSON.
+Backup: Assets/SornyGameplay/Reports/BackupPesadoCrediton/20261109_201236

@@ -1,0 +1,6 @@
+Espada e mao usam o desenho original completo, com pose e corte do mesmo conjunto.
+Mercador animado: quatro quadros de repouso e quatro de compra.
+TAB/I abre inventario. ESC fecha. E negocia no balcao.
+Espada 60, armadura 45, botas 35 e pocao 30 moedas. Pocao cura ate 25 PV, limite de tres. H usa na exploracao.
+Equipamentos, escolhas e consumiveis integrados ao salvamento.
+Backup: Assets/SornyGameplay/Reports/BackupArmory/20261116_195700

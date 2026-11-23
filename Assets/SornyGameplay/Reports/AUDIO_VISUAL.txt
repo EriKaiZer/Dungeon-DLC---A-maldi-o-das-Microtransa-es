@@ -1,0 +1,5 @@
+Audio instalado: 1 musica, 14 efeitos/ambiente.
+Materiais foscos: 9
+Placas reposicionadas: 1
+F10: volumes e creditos.
+Backup: Reports/BackupAudioVisual

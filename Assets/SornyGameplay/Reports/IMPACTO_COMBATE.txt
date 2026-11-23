@@ -1,0 +1,6 @@
+Golpe: preparação, corte acelerado e recuperação.
+Lâmina, rastro, contato e som seguem o mesmo tempo.
+Acerto: parada local da arma de 45 ms (espada) ou 28 ms (adaga), reação do inimigo, som imediato e impulso curto da câmera.
+Escudo: altura de referência 1080; cobertura até 98% da altura e limite de 60% da largura ao defender.
+Nenhum objeto criado, removido ou reordenado na hierarquia.
+Backup: Assets/SornyGameplay/Reports/BackupImpactoCombate/20261106_124609

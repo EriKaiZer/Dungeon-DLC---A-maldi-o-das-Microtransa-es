@@ -1,0 +1,12 @@
+MUSICA
+"Darkest Child" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Fonte: https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1100783
+Arquivo original baixado de https://incompetech.com/music/royalty-free/mp3-royaltyfree/Darkest%20Child.mp3
+Uso: volume reduzido e repeticao na cena. Creditos tambem disponiveis no menu F10.
+
+EFEITOS E AMBIENTE
+14 WAVs sintetizados originalmente para Dungeon & DLC: passos, espada, impacto,
+Crack, moeda, cura, vitoria, derrota e ambiente. Sem amostras de terceiros.
+Fonte de reconstrucao: make-sfx.cjs no pacote de trabalho.

@@ -1,0 +1,9 @@
+ATIVO: espada original, escudo com o verso aprovado e adaga de quatro quadros.
+Espada e escudo animados por movimento, sem reutilizar suas artes rejeitadas.
+Braço direito ampliado de 800 para 1000 unidades de altura.
+Novo filho no HUD existente: MaoEsquerda.
+1 espada, 2 adaga direita, 3 escudo, 4 adaga esquerda, 5 mão esquerda vazia.
+Clique esquerdo: ataque direito. Clique direito: defesa ou ataque esquerdo.
+Espada: 25/40 dano, alcance 2.6, duração 0.62s. Adaga: 15 dano, alcance 1.9, duração 0.40s.
+Escudo reduz 60% do dano frontal antes da armadura; impacto em área do boss exige desvio.
+Backup: Assets/SornyGameplay/Reports/BackupArmas/20261105_203435

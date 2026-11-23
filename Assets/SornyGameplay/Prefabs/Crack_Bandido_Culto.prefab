@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &24696306192819412
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8800975090411978299}
+  - component: {fileID: 2887510277305346846}
+  - component: {fileID: 905544907050787588}
+  m_Layer: 0
+  m_Name: Crack_Bandido_Culto
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8800975090411978299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 24696306192819412}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.8, y: 0.04, z: 15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6608618002289683070}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!143 &2887510277305346846
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 24696306192819412}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Height: 1.75
+  m_Radius: 0.28
+  m_SlopeLimit: 45
+  m_StepOffset: 0.2
+  m_SkinWidth: 0.025
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0.91, z: 0}
+--- !u!114 &905544907050787588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 24696306192819412}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ae0336818c5ee24e8e0650f641f329d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonDLC.Sorny.CrackEnemy
+  nome: Crack Bandido Culto
+  vidaMaxima: 70
+  dano: 18
+  velocidade: 2.1
+  percepcao: 8.5
+  alcance: 1.45
+  caminhada:
+  - {fileID: 21300000, guid: 7b5d89607278a0a4b819de45cb8d4b0e, type: 2}
+  - {fileID: 21300000, guid: 7fb727d61dbf0f64f929b0a9b76fa7b4, type: 2}
+  - {fileID: 21300000, guid: 773bb973d9c3ff843a82784937b12f0b, type: 2}
+  - {fileID: 21300000, guid: b2f84a18de6fdab44a1851149740bf60, type: 2}
+  - {fileID: 21300000, guid: ebe8ded408a173a48b1f41f056720b9d, type: 2}
+  - {fileID: 21300000, guid: 4b659aab956849e4891b2db76694d2f0, type: 2}
+  - {fileID: 21300000, guid: f8b415d7b4e0b2f4ca80e59cb328a9b1, type: 2}
+  - {fileID: 21300000, guid: d6c74846287b69a4f9858ff6ea0369f2, type: 2}
+  ataque:
+  - {fileID: 21300000, guid: 86e3ed783ff969d45b5a988380fc4320, type: 2}
+  - {fileID: 21300000, guid: bddd59bc860579f4b9602f0836fdf392, type: 2}
+  - {fileID: 21300000, guid: c88216fd60d164946bbff120e0ec42d9, type: 2}
+  - {fileID: 21300000, guid: c33aea4def2b7cb4ba0d9bc993bf5e1b, type: 2}
+  - {fileID: 21300000, guid: 602e46c4676f5c9449190bb6a7300962, type: 2}
+  - {fileID: 21300000, guid: ce0e1ad4b98f5fb4c9146c47f5e6826c, type: 2}
+  morte:
+  - {fileID: 21300000, guid: 23def732967f3a645aa20e7865253f1d, type: 2}
+  - {fileID: 21300000, guid: b77f3878209635b41b953a4dc66149c7, type: 2}
+  - {fileID: 21300000, guid: 7850de812930c07499130b72aaafd981, type: 2}
+  - {fileID: 21300000, guid: f21b7e131cff37f42adca54080be41de, type: 2}
+  - {fileID: 21300000, guid: 8ef1d599618eee74b929d5b99e95e2d3, type: 2}
+  - {fileID: 21300000, guid: 466fa4a27c45fef419b52ee5023567db, type: 2}
+  ferido:
+  - {fileID: 21300000, guid: 261001d9d55dc6245ab62f50c22227bd, type: 2}
+  - {fileID: 21300000, guid: 2c1f777e08aa7b14cb9ad3d534202e74, type: 2}
+  - {fileID: 21300000, guid: 9a691358aac9be24ea094db0cffe757a, type: 2}
+  - {fileID: 21300000, guid: e4f652f442c3f9f4c9696c054529e3df, type: 2}
+  visual: {fileID: 9217730396037867491}
+  jogador: {fileID: 0}
+  navegacao: {fileID: 0}
+--- !u!1 &3116146014902305768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6608618002289683070}
+  - component: {fileID: 9217730396037867491}
+  m_Layer: 0
+  m_Name: Sprite_Animado
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6608618002289683070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3116146014902305768}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8800975090411978299}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &9217730396037867491
+SpriteRenderer:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3116146014902305768}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 4bae532a613895b4ba113c0958cd5958, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_Sprite: {fileID: 21300000, guid: 7b5d89607278a0a4b819de45cb8d4b0e, type: 2}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.4774414, y: 1.8858398}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_SpriteSortPoint: 0
+  m_BlendShapeWeights: []

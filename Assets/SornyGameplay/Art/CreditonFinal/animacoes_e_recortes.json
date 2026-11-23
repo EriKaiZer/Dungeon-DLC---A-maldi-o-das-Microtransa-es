@@ -1,0 +1,1652 @@
+{
+  "boss": "Crediton — o Deus dos Juros",
+  "weapons": "Lâminas do Saldo Negativo",
+  "project": "Dungeon & DLC",
+  "view": "frontal billboard",
+  "total_sheets": 8,
+  "total_frames": 64,
+  "frame_numbering": "1-based, left to right, top row then bottom row",
+  "unity_runtime_tested": false,
+  "notes": "PNGs originais preservados. Pivôs, escala, ritmo e janelas de dano são pontos de partida; conferir na Unity.",
+  "sheets": [
+    {
+      "id": "01_idle_e_caminhada",
+      "file": "Sprites/01_idle_e_caminhada.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 128,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.1
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            9,
+            124,
+            375,
+            461
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            10,
+            113,
+            375,
+            461
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            10,
+            101,
+            376,
+            461
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            10,
+            125,
+            375,
+            461
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            8,
+            125,
+            375,
+            469
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            8,
+            130,
+            378,
+            467
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            11,
+            129,
+            378,
+            469
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            12,
+            125,
+            379,
+            467
+          ]
+        }
+      ],
+      "sha256": "1dc57fd5d6353ce2fe8f6056c8e8bb2556c4c46be210211d39b4484b6e7447eb"
+    },
+    {
+      "id": "02_combo_cobranca_dupla",
+      "file": "Sprites/02_combo_cobranca_dupla.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 128,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.1
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            14,
+            122,
+            371,
+            462
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            15,
+            69,
+            369,
+            462
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            51,
+            122,
+            369,
+            466
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            22,
+            137,
+            370,
+            467
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            15,
+            65,
+            371,
+            470
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            11,
+            137,
+            355,
+            470
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            10,
+            144,
+            373,
+            469
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            13,
+            123,
+            373,
+            462
+          ]
+        }
+      ],
+      "sha256": "5a1e8e4947dd588b7a80a65174dd248f676edca09e1ded1dd3e87809b8c1ec2d"
+    },
+    {
+      "id": "03_hit_e_atordoamento",
+      "file": "Sprites/03_hit_e_atordoamento.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 128,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.1
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            18,
+            95,
+            365,
+            462
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            12,
+            83,
+            374,
+            462
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            16,
+            83,
+            372,
+            462
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            17,
+            95,
+            369,
+            462
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            14,
+            139,
+            368,
+            462
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            9,
+            91,
+            359,
+            463
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            13,
+            123,
+            359,
+            462
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            18,
+            95,
+            369,
+            462
+          ]
+        }
+      ],
+      "sha256": "59b4e66ec1f6772b7a8cdcd88990d0e828803ce3136af50f62d83126f8b2467f"
+    },
+    {
+      "id": "04_especial_execucao_fiscal",
+      "file": "Sprites/04_especial_execucao_fiscal.png",
+      "width": 1774,
+      "height": 887,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 118,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.169
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 443,
+            "width": 444,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            82,
+            58,
+            386,
+            369
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 444,
+            "y": 443,
+            "width": 443,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            64,
+            29,
+            378,
+            371
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 887,
+            "y": 443,
+            "width": 443,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            29,
+            58,
+            400,
+            378
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 1330,
+            "y": 443,
+            "width": 444,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            37,
+            57,
+            400,
+            415
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 444,
+            "width": 444,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            30,
+            51,
+            418,
+            414
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 444,
+            "y": 444,
+            "width": 443,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            56,
+            56,
+            377,
+            369
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 887,
+            "y": 444,
+            "width": 443,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            66,
+            56,
+            378,
+            369
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1330,
+            "y": 444,
+            "width": 444,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            59,
+            56,
+            384,
+            369
+          ]
+        }
+      ],
+      "sha256": "c70ec3197f1f4146eee11eea55222b2596c5becae759ec637c60e00d8883ca17"
+    },
+    {
+      "id": "05_especial_juros_rotativos",
+      "file": "Sprites/05_especial_juros_rotativos.png",
+      "width": 1774,
+      "height": 887,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 117,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.183
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 443,
+            "width": 444,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            80,
+            55,
+            385,
+            363
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 444,
+            "y": 443,
+            "width": 443,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            106,
+            83,
+            343,
+            363
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 887,
+            "y": 443,
+            "width": 443,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            49,
+            55,
+            387,
+            363
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 1330,
+            "y": 443,
+            "width": 444,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            59,
+            50,
+            380,
+            363
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 444,
+            "width": 444,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            81,
+            36,
+            341,
+            363
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 444,
+            "y": 444,
+            "width": 443,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            87,
+            29,
+            371,
+            363
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 887,
+            "y": 444,
+            "width": 443,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            80,
+            84,
+            374,
+            363
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1330,
+            "y": 444,
+            "width": 444,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            71,
+            58,
+            375,
+            363
+          ]
+        }
+      ],
+      "sha256": "6f19b6c8ea9efba300bab31b3f68d1c4e3f4c2c365258f1aae60ed04ba003de0"
+    },
+    {
+      "id": "06_especial_quebra_de_banca",
+      "file": "Sprites/06_especial_quebra_de_banca.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 128,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.1
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            13,
+            123,
+            371,
+            461
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            12,
+            143,
+            377,
+            461
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            26,
+            67,
+            360,
+            418
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            22,
+            98,
+            357,
+            445
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            34,
+            136,
+            349,
+            480
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            2,
+            171,
+            369,
+            490
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            23,
+            147,
+            358,
+            472
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            16,
+            124,
+            372,
+            461
+          ]
+        }
+      ],
+      "sha256": "9cc7ee6ee7be7db5c514dfae6377c1440bda5de98f513f9eb4d16ad57f087b76"
+    },
+    {
+      "id": "07_transicao_fase2_calote_divino",
+      "file": "Sprites/07_transicao_fase2_calote_divino.png",
+      "width": 1536,
+      "height": 1024,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 128,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.1
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            14,
+            111,
+            368,
+            461
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            36,
+            128,
+            339,
+            461
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            46,
+            128,
+            327,
+            461
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            5,
+            105,
+            378,
+            461
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            10,
+            38,
+            371,
+            462
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 384,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 384,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            10,
+            38,
+            370,
+            462
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 768,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 768,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            11,
+            124,
+            368,
+            462
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1152,
+            "y": 512,
+            "width": 384,
+            "height": 512
+          },
+          "rect_unity_bottom_left": {
+            "x": 1152,
+            "y": 0,
+            "width": 384,
+            "height": 512
+          },
+          "visible_alpha_bounds_in_cell": [
+            13,
+            112,
+            369,
+            462
+          ]
+        }
+      ],
+      "sha256": "7e1a211b22fbcadf1c2243be36a15ac07360f046822b360bb24ff7a0b3ce5be3"
+    },
+    {
+      "id": "08_morte_falencia",
+      "file": "Sprites/08_morte_falencia.png",
+      "width": 1774,
+      "height": 887,
+      "columns": 4,
+      "rows": 2,
+      "pixels_per_unit_starting_point": 122,
+      "pivot_starting_point": {
+        "x": 0.5,
+        "y": 0.135
+      },
+      "frames": [
+        {
+          "number": 1,
+          "rect_top_left": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 443,
+            "width": 444,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            77,
+            64,
+            381,
+            384
+          ]
+        },
+        {
+          "number": 2,
+          "rect_top_left": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 444,
+            "y": 443,
+            "width": 443,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            65,
+            88,
+            369,
+            384
+          ]
+        },
+        {
+          "number": 3,
+          "rect_top_left": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 887,
+            "y": 443,
+            "width": 443,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            57,
+            95,
+            378,
+            386
+          ]
+        },
+        {
+          "number": 4,
+          "rect_top_left": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 444
+          },
+          "rect_unity_bottom_left": {
+            "x": 1330,
+            "y": 443,
+            "width": 444,
+            "height": 444
+          },
+          "visible_alpha_bounds_in_cell": [
+            42,
+            77,
+            403,
+            393
+          ]
+        },
+        {
+          "number": 5,
+          "rect_top_left": {
+            "x": 0,
+            "y": 444,
+            "width": 444,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 0,
+            "y": 0,
+            "width": 444,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            50,
+            80,
+            403,
+            374
+          ]
+        },
+        {
+          "number": 6,
+          "rect_top_left": {
+            "x": 444,
+            "y": 444,
+            "width": 443,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 444,
+            "y": 0,
+            "width": 443,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            48,
+            122,
+            391,
+            374
+          ]
+        },
+        {
+          "number": 7,
+          "rect_top_left": {
+            "x": 887,
+            "y": 444,
+            "width": 443,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 887,
+            "y": 0,
+            "width": 443,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            51,
+            135,
+            403,
+            374
+          ]
+        },
+        {
+          "number": 8,
+          "rect_top_left": {
+            "x": 1330,
+            "y": 444,
+            "width": 444,
+            "height": 443
+          },
+          "rect_unity_bottom_left": {
+            "x": 1330,
+            "y": 0,
+            "width": 444,
+            "height": 443
+          },
+          "visible_alpha_bounds_in_cell": [
+            53,
+            134,
+            403,
+            374
+          ]
+        }
+      ],
+      "sha256": "d12787cf8c3fedbb9bd267a30e6bad2485c756184456b45c0290445bb6041472"
+    }
+  ],
+  "clips": [
+    {
+      "name": "Idle",
+      "sheet": "01_idle_e_caminhada",
+      "frames": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fps_starting_point": 5,
+      "loop": true,
+      "suggested_damage_frames": []
+    },
+    {
+      "name": "Caminhada",
+      "sheet": "01_idle_e_caminhada",
+      "frames": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 7,
+      "loop": true,
+      "suggested_damage_frames": []
+    },
+    {
+      "name": "CobrancaDupla",
+      "sheet": "02_combo_cobranca_dupla",
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 10,
+      "loop": false,
+      "suggested_damage_frames": [
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Hit",
+      "sheet": "03_hit_e_atordoamento",
+      "frames": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "fps_starting_point": 12,
+      "loop": false,
+      "suggested_damage_frames": []
+    },
+    {
+      "name": "Atordoamento",
+      "sheet": "03_hit_e_atordoamento",
+      "frames": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 6,
+      "loop": false,
+      "suggested_damage_frames": []
+    },
+    {
+      "name": "ExecucaoFiscal",
+      "sheet": "04_especial_execucao_fiscal",
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 8,
+      "loop": false,
+      "suggested_damage_frames": [
+        5
+      ]
+    },
+    {
+      "name": "JurosRotativos",
+      "sheet": "05_especial_juros_rotativos",
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 10,
+      "loop": false,
+      "suggested_damage_frames": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "QuebraDeBanca",
+      "sheet": "06_especial_quebra_de_banca",
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 8,
+      "loop": false,
+      "suggested_damage_frames": [
+        6
+      ]
+    },
+    {
+      "name": "CaloteDivino",
+      "sheet": "07_transicao_fase2_calote_divino",
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 7,
+      "loop": false,
+      "suggested_damage_frames": []
+    },
+    {
+      "name": "Falencia",
+      "sheet": "08_morte_falencia",
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "fps_starting_point": 7,
+      "loop": false,
+      "suggested_damage_frames": []
+    }
+  ]
+}

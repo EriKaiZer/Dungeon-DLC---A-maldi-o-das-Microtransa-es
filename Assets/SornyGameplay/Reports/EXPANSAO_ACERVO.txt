@@ -1,0 +1,5 @@
+Sala 04 convertida em tesouro; mesmos quatro baús e IDs, um entrega o Machado Rompe-Taxas. Tecla 6, 42 dano, contato 0,27s e duração 0,82s.
+Novo áudio: rasgo de lâmina, três gemidos sintetizados do jogador e bloqueio de madeira/metal com tremor.
+Chefão libera a chave e a passagem atrás do trono. Fragmento do acervo abre a Masmorra II, com três salas, sete guardiões e objetivo final.
+Mesma cena, jogador, HUD, equipamentos e arquivo de salvamento. Grupos novos anexados aos existentes.
+Backup: Assets/SornyGameplay/Reports/BackupExpansao/20261107_125654

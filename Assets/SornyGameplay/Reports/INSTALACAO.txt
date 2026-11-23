@@ -1,0 +1,5 @@
+Cena: Assets/SornyGameplay/Scenes/Fortaleza_Azul_Jogavel.unity
+Backup: Assets/SornyGameplay/Scenes/Backup_20261101_192612.unity
+24 quadros, 5 inimigos, 4 curas, 5 moedas, 1 objetivo.
+Vida jogador 100. Vida inimigo 70. Espada 25. Dano inimigo 12.
+Células livres: 2741

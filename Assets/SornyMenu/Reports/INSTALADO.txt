@@ -1,0 +1,6 @@
+Menu instalado. Play inicia Tela_Inicial.
+Novo Jogo: abertura de 4 telas e Fortaleza Azul.
+ESC/Space pula abertura. ESC na dungeon abre pausa.
+Salvamento automático a cada 10 segundos enquanto vivo, ao pausar e ao sair.
+Continuar restaura vida, posição, moedas, inimigos e itens.
+F10: controles de áudio anteriores continuam disponíveis.

@@ -1,0 +1,9 @@
+REVISÃO INICIAL DA FORTALEZA AZUL
+Backup da cena em Assets/SornyGameplay/Reports/BackupRevisaoInicial/20261105_134729
+bau_1 de (3.60, 0.02, -3.00) para (3.50, 0.02, -1.00)
+bau_2 de (3.80, 0.02, 17.00) para (4.40, 0.02, 14.00)
+bau_3 de (-3.70, 0.02, 33.00) para (-4.30, 0.02, 30.00)
+bau_4 de (3.80, 0.02, 49.00) para (4.40, 0.02, 47.30)
+Mesmos objetos e mesmos caminhos na Hierarchy, incluindo baús e seus identificadores.
+Braço com apoio na borda inferior, deslocamento menor e retorno suave após o mouse parar.
+Golpe mantém o contato em 0,205 segundo e duração de 0,62 segundo.

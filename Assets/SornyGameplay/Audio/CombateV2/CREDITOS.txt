@@ -1,0 +1,28 @@
+MÚSICA DE EXPLORAÇÃO
+"Heroic Age" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100848
+ISRC: USUAN1100848
+
+MÚSICA DO CHEFE
+"Volatile Reaction" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+Fonte: https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400039
+ISRC: USUAN1400039
+
+Adaptações das duas faixas: retirada de silêncio nas extremidades, ajuste de nível e junção com transição de 0,65 segundo para reprodução em loop. As gravações originais estão preservadas na pasta de trabalho.
+
+MENU
+Darkest Child — Kevin MacLeod continua na tela de início, com a gravação e as referências originais preservadas. Créditos completos no arquivo CREDITOS.txt da pasta de áudio anterior.
+
+EFEITOS DE COMBATE
+Amostras de Kenney, pacotes Impact Sounds e RPG Audio, licenciadas sob CC0:
+https://kenney.nl/assets/impact-sounds
+https://kenney.nl/assets/rpg-audio
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Design de som para Dungeon & DLC: composição em camadas, filtragem, ajuste de afinação, corpo grave, reflexão curta de sala e variações. Arquivos de origem: impactPunch, impactSoft, impactMetal, impactPlate, impactWood, chop e knifeSlice. Licenças originais dos pacotes acompanham os arquivos.
+
+Passos, vozes do Crack, ambiente, moeda, cura e sinais de vitória/derrota anteriores continuam sendo os sons originais do projeto.

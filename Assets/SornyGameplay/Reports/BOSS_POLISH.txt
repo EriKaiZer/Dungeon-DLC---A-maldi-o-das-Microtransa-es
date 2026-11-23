@@ -1,0 +1,13 @@
+24 quadros do boss: caminhada, ataque e morte.
+Trilha original de batalha em loop: 54,85714s.
+Portao automatico na entrada da arena; fecha na luta e abre na vitoria.
+Materiais revisados: 49. Texturas com mipmaps: 7. Duplicatas: 8.
+Backup: Assets/SornyGameplay/Reports/BackupBossPolish/20261102_135718
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 58.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 10.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 6.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 22.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 38.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 42.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 26.00)
+RENDERER DUPLICADO OCULTADO: default (0.00, 0.00, 54.00)

@@ -1,0 +1,8 @@
+Guarda centralizada e mais baixa, diante do tórax.
+Baú bau_1 movido da recepção para a sala do cofre, sem alterar ID ou recompensa.
+Duas curas de 25 PV, perto de z=29 e z=51. Entrada e arena sem cura.
+Dano comum: 18 (era 12). Chefe: 28 / 34 (era 20 / 25).
+Bloqueio frontal reduz 60%: golpe comum causa 8 com escudo, 6 com escudo e armadura.
+Salvamentos antigos e reinício respeitam a distribuição nova de curas.
+Mesmos objetos, nomes e pais na Hierarchy.
+Backup: Assets/SornyGameplay/Reports/BackupBalanceamento/20261106_131146

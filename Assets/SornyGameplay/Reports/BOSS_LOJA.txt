@@ -1,0 +1,6 @@
+Lorde Só-Não: 360 PV; impacto e investida; fase 2 abaixo de 50%.
+Desperta após os cinco cobradores, na última sala.
+4 baús: 70, 40, 50 e 40 moedas.
+Loja na entrada: espada 60 moedas (40 dano), armadura 45 (-25% dano), botas 35 (+20% velocidade).
+Compras e baús integrados ao salvamento.
+Backup da cena: Reports/BackupBoss.

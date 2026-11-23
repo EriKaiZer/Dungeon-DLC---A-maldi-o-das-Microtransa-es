@@ -1,0 +1,8 @@
+Exploração: Heroic Age — Kevin MacLeod.
+Chefe: Volatile Reaction — Kevin MacLeod, com entrada de impacto e transição de 0,7s.
+Menu mantém Darkest Child. Créditos no menu e F10.
+14 variações de combate, dano recebido e entrada do chefe. Impacto também nos golpes fatais.
+A música abre espaço por um instante nos acertos, sem alterar os volumes salvos.
+Parada da arma: espada 60 ms, adaga 35 ms. Impulso curto da câmera, sem alterar a mira.
+Sem criar ou remover objetos na hierarquia.
+Backup: Assets/SornyGameplay/Reports/BackupAudioCombate/20261106_135014

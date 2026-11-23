@@ -1,0 +1,4 @@
+Espada e adaga: lamina, guarda, cabo e pomo em um unico sprite rigido.
+Mao sobreposta com proporcao preservada e cabo ajustado ao punho fechado.
+Animacao e trilha de corte acompanham o conjunto.
+Backup: Assets/SornyGameplay/Reports/BackupEmpunhaduraReta/20261116_205552

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea8b5deeb7cf6a84eaf4d9771db0dbd6, type: 3}
+  m_Name: SornyMenuTheme
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonDLC.Sorny.SornyMenuTheme
+  fundo: {fileID: 2800000, guid: a96c0febd6dc1c84dab69c67f77c06fb, type: 3}
+  titulo: {fileID: 21300000, guid: 0758b475a9483dd4bb659718895ef8b9, type: 3}
+  abertura:
+  - {fileID: 2800000, guid: 452e7b21ba1213b429a4c097b234d448, type: 3}
+  - {fileID: 2800000, guid: 238f311f7712092489a2025db7b1ba23, type: 3}
+  - {fileID: 2800000, guid: 91f7f3abba9008e46af68ad485e821bb, type: 3}
+  - {fileID: 2800000, guid: 14e29ac037a136c41b9d3eef77f00ff6, type: 3}
+  fonte: {fileID: 12800000, guid: 1216049ddab4bc2469d7a55bc699c212, type: 3}
+  musica: {fileID: 8300000, guid: 9d1f275a5dccf044f9156ef74048530a, type: 3}
+  selecionar: {fileID: 8300000, guid: 9add025eca4117d408b4be1e899e9df0, type: 3}
+  confirmar: {fileID: 8300000, guid: cd531a9c1e0905349b67e597182c40c8, type: 3}
+  atmosfera: {fileID: 4800000, guid: 191217e15fbff184586db8d14e83e946, type: 3}

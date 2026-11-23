@@ -1,0 +1,8 @@
+Unity 6000.6.6f1
+Pipeline: PC_RPAsset
+Prefabs: 90
+Renderers conferidos: 376
+Colliders: 305
+Verificações de piso e passagem: 129
+Escala: parede 4 x 3m confirmada.
+Nenhum material ausente.
